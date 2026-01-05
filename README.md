@@ -1,6 +1,8 @@
 # Gautham's Macropad
 
-<img width="1464" height="1012" alt="OverallHackpad" src="https://github.com/user-attachments/assets/37cc2257-c16a-47fb-94ba-127cbbd057e1" />
+<img width="1620" height="1041" alt="ThirdRender" src="https://github.com/user-attachments/assets/66faf40a-1927-4945-9a83-8c45bff7351d" />
+<img width="1415" height="978" alt="SecondRender" src="https://github.com/user-attachments/assets/b45630e7-53ee-453e-8e5f-7bfc7252f4e2" />
+
 
 
 ### Inspiration
@@ -17,8 +19,9 @@ BOM:
 - 4x Blank DSA Keycaps
 - 4x M3x16 Bolt
 - 4x M3 Heatset
+- 1x 0.91" 128x32 OLED Display
 
 
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
-<img width="1620" height="932" alt="Screenshot 2026-01-02 035231" src="https://github.com/user-attachments/assets/db2ac7ef-6f7d-4814-857a-db331752fea6"/>  |  <img width="728" height="980" alt="Screenshot 2026-01-02 035433" src="https://github.com/user-attachments/assets/d97e189a-1e5d-4fee-b474-ec70d213ce53" />  |  <img width="1237" height="785" alt="Screenshot 2026-01-02 040319" src="https://github.com/user-attachments/assets/e2933c66-415e-4cb7-bb66-f481d9435d7a" />
+<img width="1827" height="1060" alt="Screenshot 2026-01-04 200336" src="https://github.com/user-attachments/assets/364a3437-e2e3-43cf-a0f0-ffeae9db6892" />  |  <img width="918" height="928" alt="Screenshot 2026-01-04 200304" src="https://github.com/user-attachments/assets/bc08d2c8-644d-4185-83d3-732cbf419eee" />  |  <img width="1365" height="672" alt="Screenshot 2026-01-04 200155" src="https://github.com/user-attachments/assets/26c1414c-4586-4f7a-b224-2e9e99ad79fb" />
