@@ -30,6 +30,9 @@ keyboard.keymap = [
     [KC.UP, KC.LCTL(KC.Z), KC.DOWN, KC.LCTL(KC.Y),]
 ]
 
+# TODO: Do the OLED and LEDs later
+
+
 # Start kmk!
 if __name__ == '__main__':
     keyboard.go()
