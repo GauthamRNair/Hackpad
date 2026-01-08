@@ -6,6 +6,10 @@ from kmk.kmk_keyboard import KMKKeyboard
 from kmk.scanners.keypad import KeysScanner
 from kmk.keys import KC
 from kmk.modules.macros import Press, Release, Tap, Macros
+import board
+from kmk.extensions.RGB import RGB
+
+
 
 # This is the main instance of your keyboard
 keyboard = KMKKeyboard()
@@ -32,6 +36,15 @@ keyboard.keymap = [
 
 # TODO: Do the OLED and LEDs later
 
+# LED control
+rgb = RGB(pixel_pin=board.GP26, num_pixels=4, brightness=0.2, animation_type=KC.RGB_ANIMATION_RAINBOW)
+keyboard.extensions.append(rgb)
+
+# OLED Display
+
+
+# display = SSD1306(i2c=board.I2C(), width=128, height=64)
+# keyboard.extensions.append(display)
 
 # Start kmk!
 if __name__ == '__main__':
